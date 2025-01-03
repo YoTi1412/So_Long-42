@@ -37,8 +37,8 @@ Navigate your character through a grid-based world where every move counts! Your
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd so_long
+git clone https://github.com/YoTi1412/So_Long-42.git
+cd So_Long-42
 ```
 
 2. Compile the game:
