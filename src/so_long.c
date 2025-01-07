@@ -18,7 +18,7 @@ int	main(int argc, char *argv[])
 
 	game = malloc(sizeof(t_game));
 	if (!game)
-		return (NULL);
+		return (0);
 	ft_check_command_line_args(argc, argv, game);
 	ft_init_map(game, argv[1]);
 	ft_init_vars(game);
